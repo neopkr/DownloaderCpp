@@ -14,7 +14,9 @@ I put in the bat file how to install correctly python, but here is with images!
 - First: You need to check "Add Python 3.9.2 to PATH!"
 ![](images/py_to_the_path.png)
 - Then "Install Now" and wait.
-- When the install finalize don't close the installer yet. When the installer finalized you need to click "Disable path lenght limit"
+- When the install finalize don't close the installer yet. When the installer finalized you need to click
+- "Disable path lenght limit"
+
 ![](images/disable_path.jpg)
 - And then close it, Done!
 ## G++/minGW Installation
