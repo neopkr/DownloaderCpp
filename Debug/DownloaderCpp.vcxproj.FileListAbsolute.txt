@@ -1,0 +1,2 @@
+C:\Users\neopk\source\repos\DownloaderCpp\Debug\DownloaderCpp.exe
+C:\Users\neopk\source\repos\DownloaderCpp\Debug\DownloaderCpp.pdb

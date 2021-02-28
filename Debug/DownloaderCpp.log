@@ -1,0 +1,4 @@
+﻿  menu.cpp
+C:\Users\neopk\source\repos\DownloaderCpp\menu.cpp(15,64): warning C4129: 'i': secuencia de escape de carácter no reconocida
+C:\Users\neopk\source\repos\DownloaderCpp\menu.cpp(15,64): warning C4129: 'V': secuencia de escape de carácter no reconocida
+  DownloaderCpp.vcxproj -> C:\Users\neopk\source\repos\DownloaderCpp\Debug\DownloaderCpp.exe
