@@ -4,7 +4,7 @@
  Easy, useful and fast.
  >Note 0: If you're Desktop Name contains an space (Example: Neopkr PC, PC Neopkr) the bat file couldn't open the file!
  
- >Note 1: Maybe you can making a big question if your review the code, "Why you don't use fopen()? why you use bat files?". Fast answer: I don't have any idea how give a permissions, if i put the path, the fopen_s() recieve an error from the path: C: permission denied. Then i remember the bat files and yeah, just that xD.
+ >Note 1: Maybe you can making a big question if your review the code, "Why you don't use fopen()? why you use bat files?". Fast answer: I don't have any idea how give a permissions, if i put the path, the fopen_s() recieve an error from the path: C: permission denied, there is a file where i try it [OpenArchive.h](https://github.com/neopkr/DownloaderCpp/blob/main/OpenArchive.h) you can try and test. Then i remember the bat files and yeah, just that xD.
  
  >Note 2: Is a good idea add IDE's too? (Example: Eclipse, NetBeans, Sublime Text 3, etc).
  ## How to use / Introduction
