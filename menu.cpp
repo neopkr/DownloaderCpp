@@ -42,7 +42,7 @@ void onMenu()
 	fPrint("5.- NodeJS");
 	fPrint("6.- Visual Studio 2019");
 	fp("7.- Introduction / How to Use");
-	fp("8.- GitHub Repositoty (for changes and updates)");
+	fp("8.- GitHub Repository (for changes and updates)");
 	fp("");
 	fp("0- Exit");
 	cin >> select;
@@ -124,8 +124,12 @@ void onMenu()
 		s("cls");
 		goto menu;
 		break;
+	case 7:
+		WOpenLink("https://github.com/neopkr/DownloaderCpp#how-to-use--introduction");
+		goto menu;
+		break;
 	case 8:
-		WOpenLink("https://github.com/neopkr");
+		WOpenLink("https://github.com/neopkr/DownloaderCpp");
 		goto menu;
 		break;
 	case 99: //Use only for debugs, test functions
