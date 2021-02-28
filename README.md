@@ -2,6 +2,7 @@
  Welcome to DownloadCpp. This program was created for a person who hate installs things but i decided to create a full menu for download and "install" applications.
  This program have all what you need if you restart your pc from 0, just download this program (Literally is a exe file haha) and you will get all necesaries programs in your pc.
  Easy, useful and fast.
+ >Note 0: If you're Desktop Name contains an space (Example: Neopkr PC, PC Neopkr) the bat file couldn't open the file!
  >Note 1: Maybe you can making a big question if your review the code, "Why you don't use fopen()? why you use bat files?". Fast answer: I don't have any idea how give a permissions, if i put the path, the fopen_s() recieve an error from the path: C: permission denied. Then i remember the bat files and yeah, just that xD.
  >Note 2: Is a good idea add IDE's too? (Example: Eclipse, NetBeans, Sublime Text 3, etc).
  ## How to use / Introduction
